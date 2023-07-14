@@ -17,7 +17,7 @@
 
 <br><br><br><br><br>
 
-## Coding Profiles </>   
+## 🚀 Coding Profiles </>   
 <div align="center">
  <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 <a href="https://www.leetcode.com/spk_0001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spk_0001" height="30" width="40" /></a>
@@ -27,8 +27,8 @@
 </div>
 
 
-<br><br><br>
-## My Skill Set 🤓👩‍💻
+<br><br><br><br><br>
+## 🚀 My Skill Set 🤓👩‍💻
 <table><tr><td valign="top" width="33%">
 
 ### Frontend | Framework AND Tools 
