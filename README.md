@@ -12,7 +12,7 @@
 
 - ❤️</> 🧑‍💻 **Problem Solving** 🧠 🎶
 
-- 📫 How to reach me *suryaprakashk1805@gmail.com*
+- 📫 How to reach me **suryaprakashk1805@gmail.com**
 
 
 
