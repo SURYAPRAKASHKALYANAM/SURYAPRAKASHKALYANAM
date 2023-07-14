@@ -22,5 +22,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+<br><br><br><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p>
+
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
