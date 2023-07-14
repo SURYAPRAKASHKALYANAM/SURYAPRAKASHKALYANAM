@@ -21,13 +21,17 @@
 ## My Skill Set  🤹🤹🤹
 <table><tr><td valign="top" width="33%">
 
-### Frontend | FRAMEWORK 
+### Frontend | FRAMEWORK AND TOOLS 
 <div align="center">  
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />  
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="flask" height="50" /> 
 <img style="margin: 15px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="50" />
-<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" />     
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" /> 
+ <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+ <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" /> 
+ 
 </div></td><td valign="top" width="33%">
 
 ### PROGRAMMING LANGUAGES  
@@ -38,13 +42,9 @@
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50" />
-
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />   
-
- 
 </div></td><td valign="top" width="33%">
 
-### LIBRARIES AND TOOLS   
+### LIBRARIES   
 <div align="center">    
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" height="50" />
 <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50" /> 
@@ -53,9 +53,7 @@
 <img style="margin: 15px" src="https://fontawesomeicons.com/lib/svg/keras.svg" alt="keras" title="keras" height="50" />    
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" /> 
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" alt="Bash" height="50" />  
-<img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
-<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" />    
- 
+   
 </div></td></tr></table>  
 
 <br/>
