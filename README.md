@@ -18,7 +18,7 @@
 <br><br><br><br><br>
 
 
-## My Skill Set  🤹🤹🤹
+## My Skill Set 🤓👩‍💻
 <table><tr><td valign="top" width="33%">
 
 ### Frontend | Framework AND Tools 
@@ -65,5 +65,24 @@
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/suryaprakashkalyanam/suryaprakashkalyanam/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<br/>
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/suryaprakashkalyanam" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/surya prakash kalyanam" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/suryaprakashkalyanam@1" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 
