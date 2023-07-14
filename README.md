@@ -32,11 +32,13 @@
 
 ### PROGRAMMING LANGUAGES  
 <div align="center">  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /> 
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50" />
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" /> 
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50" />
+
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />   
 
  
@@ -44,11 +46,11 @@
 
 ### LIBRARIES AND TOOLS   
 <div align="center">    
-<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="50" />
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" height="50" />
 <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50" /> 
-<img style="margin: 15px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="50" />
+<img style="margin: 15px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="seaborn" height="50" />
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="50" />
- <img style="margin: 15px" src="https://fontawesomeicons.com/lib/svg/keras.svg" alt="keras" title="keras" height="50" />    
+<img style="margin: 15px" src="https://fontawesomeicons.com/lib/svg/keras.svg" alt="keras" title="keras" height="50" />    
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" /> 
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" alt="Bash" height="50" />  
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
