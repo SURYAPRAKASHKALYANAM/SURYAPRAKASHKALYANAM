@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakashkalyanam&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakashkalyanam" /> </p>
 
-- 🔭 I'm Interested in **DEEP LEARNING,COMPUTER VISION,MACHINE LEARNING.**
+- 🔭 I'm Interested in **Deep Learning,Computer Vision,Machine Learning.**
 
 - 🌱 I'm currently learning DataBase
 
@@ -20,7 +20,7 @@
 
 <br><br><br><br><br>
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/suryaprakashkalyanam">
 
 <img src="https://raw.githubusercontent.com/suryaprakashkalyanam/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/suryaprakashkalyanam/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
