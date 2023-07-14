@@ -19,10 +19,11 @@
 
 
 <br><br><br><br><br>
+<CENTER>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suryaprakashkalyanam&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p></CENTER>
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/suryaprakashkalyanam/suryaprakashkalyanam/blob/output/github-contribution-grid-snake.svg)
