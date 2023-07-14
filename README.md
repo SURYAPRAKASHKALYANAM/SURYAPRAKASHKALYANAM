@@ -25,7 +25,7 @@
 <div align="center">  
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />  
-<img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask height="50" /> 
+<img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="flask" height="50" /> 
 <img style="margin: 15px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="50" />
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" />     
 </div></td><td valign="top" width="33%">
@@ -48,7 +48,7 @@
 <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50" /> 
 <img style="margin: 15px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="50" />
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="50" />
- <img style="margin: 15px" src="https://fontawesomeicons.com/lib/svg/keras.svg" alt="keras" height="50" />    
+ <img style="margin: 15px" src="https://fontawesomeicons.com/lib/svg/keras.svg" alt="keras" title="keras" height="50" />    
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" /> 
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" alt="Bash" height="50" />  
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
