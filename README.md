@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hey Everyone 👋, I'm SURYA PRAKASH KALYANAM</h1>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<!--
-**SURYAPRAKASHKALYANAM/SURYAPRAKASHKALYANAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakashkalyanam&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakashkalyanam" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I'm Interested in DEEP LEARNING,COMPUTER VISION,MACHINE LEARNING.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning DataBase
+
+- 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
+
+- ❤️</> 🧑‍💻 Problem Solving 🧠 🎶
+
+- 📫 How to reach me *suryaprakashk1805@gmail.com*
+
+
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
