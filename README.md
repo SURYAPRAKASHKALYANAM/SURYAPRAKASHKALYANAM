@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakashkalyanam&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakashkalyanam" /> </p>
 
-- 🔭 I'm Interested in DEEP LEARNING,COMPUTER VISION,MACHINE LEARNING.
+- 🔭 I'm Interested in **DEEP LEARNING,COMPUTER VISION,MACHINE LEARNING.**
 
 - 🌱 I'm currently learning DataBase
 
 - 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
 
-- ❤️</> 🧑‍💻 Problem Solving 🧠 🎶
+- ❤️</> 🧑‍💻 **Problem Solving** 🧠 🎶
 
 - 📫 How to reach me *suryaprakashk1805@gmail.com*
 
