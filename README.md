@@ -48,6 +48,7 @@
 <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50" /> 
 <img style="margin: 15px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="50" />
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="50" />
+ <img style="margin: 15px" src="[https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg](https://fontawesomeicons.com/lib/svg/keras.svg)" alt="keras" height="50" />    
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" /> 
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" alt="Bash" height="50" />  
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
