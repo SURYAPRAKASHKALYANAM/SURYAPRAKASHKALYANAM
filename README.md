@@ -21,7 +21,7 @@
 ## My Skill Set  🤹🤹🤹
 <table><tr><td valign="top" width="33%">
 
-### Frontend | FRAMEWORK AND TOOLS 
+### Frontend | Framework AND Tools 
 <div align="center">  
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />  
@@ -34,17 +34,17 @@
  
 </div></td><td valign="top" width="33%">
 
-### PROGRAMMING LANGUAGES  
+### Programming Languages
 <div align="center">  
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50" />
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
-<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50" />
+<!-- <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50" /> -->
 </div></td><td valign="top" width="33%">
 
-### LIBRARIES   
+### Libraries 
 <div align="center">    
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" height="50" />
 <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50" /> 
