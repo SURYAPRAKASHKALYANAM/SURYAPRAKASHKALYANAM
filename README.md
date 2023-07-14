@@ -1,4 +1,5 @@
-<h1 align="center">Hey Everyone 👋, I'm SURYA PRAKASH KALYANAM</h1>
+<h2 align="center">Hey Everyone 👋, I'm SURYA PRAKASH KALYANAM</h2>
+<br><br><br><br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakashkalyanam&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakashkalyanam" /> </p>
