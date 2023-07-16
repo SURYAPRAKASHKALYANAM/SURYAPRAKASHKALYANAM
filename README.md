@@ -74,13 +74,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=suryaprakashkalyanam&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
-
+<br>
  
 ## ⭐📈📈Stats
 
-<p allign="center" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryaprakashkalyanam&show_icons=true&locale=en" alt="suryaprakashkalyanam" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=suryaprakashkalyanam&show_icons=true&locale=en" alt="suryaprakashkalyanam" /></p>
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me  
