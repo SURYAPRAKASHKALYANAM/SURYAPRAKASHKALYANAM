@@ -72,7 +72,8 @@
 <div align="center> 
   
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suryaprakashkalyanam&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<img src="https://github-contributor-stats.vercel.app/api?username=suryaprakashkalyanam&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
 </div>
 <br>
