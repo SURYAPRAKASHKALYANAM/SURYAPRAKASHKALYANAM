@@ -76,9 +76,7 @@
 
 <br>
 
-##  ⭐ stars and badges🎖️
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakashkalyanam&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakashkalyanam" /> </p>
-
+##  ⭐ trophy🎖️
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaprakashkalyanam" alt="suryaprakashkalyanam" /></a> </p>
 <br>
  
