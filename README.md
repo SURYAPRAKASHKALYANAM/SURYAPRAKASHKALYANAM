@@ -77,14 +77,15 @@
 <br>
 
 ## ⭐📈📈Stats
-<div align="center">
+<div>
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /> </div>
-<br>
 
-<div align="center">
+<div align="right">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakashkalyanam&" alt="suryaprakashkalyanam" />
-<br></div>
-
+</div>
+</div>
+<br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=suryaprakashkalyanam&show_icons=true&locale=en" alt="suryaprakashkalyanam" />
 </div>
