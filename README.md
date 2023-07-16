@@ -69,20 +69,21 @@
 </div></td></tr></table>  
 
 <br>
- 
+<div align="center> 
+  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suryaprakashkalyanam&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-
+</div>
 <br>
 
 ## ⭐📈📈Stats
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" />
-</div> <br><br>
+</div> <br>
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=suryaprakashkalyanam&show_icons=true&locale=en" alt="suryaprakashkalyanam" />
-</div><br><br>
+</div><br>
 <div align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakashkalyanam&" alt="suryaprakashkalyanam" />
 </div>
