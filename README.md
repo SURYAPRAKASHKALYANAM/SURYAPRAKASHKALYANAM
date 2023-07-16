@@ -75,13 +75,21 @@
 
 
 <br>
- 
-## ⭐📈📈Stats
 
+##  ⭐ stars and badges🎖️
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakashkalyanam&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakashkalyanam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaprakashkalyanam" alt="suryaprakashkalyanam" /></a> </p>
+<br>
+ 
+## ⭐📈📈Stats
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryaprakashkalyanam&show_icons=true&locale=en" alt="suryaprakashkalyanam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakashkalyanam&" alt="suryaprakashkalyanam" /></p>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me  
 <div align="center">
