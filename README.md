@@ -38,11 +38,11 @@
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />  
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="flask" height="50" /> 
-<img style="margin: 15px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="50" />
+<img style="margin: 15px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" />
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" /> 
  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
  <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
-<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /> 
  
 </div></td><td valign="top" width="33%">
 
@@ -52,7 +52,7 @@
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" /> 
-<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 <!-- <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50" /> -->
 </div></td><td valign="top" width="33%">
 
@@ -71,14 +71,20 @@
 <br/>
 
 
-
+<div allign="left>
+ 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suryaprakashkalyanam&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+ </div>
+
+<div allign="right">
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p>
+ 
+</div>
 
 ## ⭐📈📈Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryaprakashkalyanam&show_icons=true&locale=en" alt="suryaprakashkalyanam" /></p>
 
