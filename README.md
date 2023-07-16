@@ -76,12 +76,7 @@
 
 <br>
 
-##  ⭐ trophy🎖️
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaprakashkalyanam" alt="suryaprakashkalyanam" /></a> </p>
-<br>
- 
 ## ⭐📈📈Stats
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaprakashkalyanam&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" /></p>
 
