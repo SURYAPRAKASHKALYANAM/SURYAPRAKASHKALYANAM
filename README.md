@@ -20,7 +20,7 @@
 ## 🚀 Coding Profiles </>   
 <div align="center">
  <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
-<a href="https://www.leetcode.com/spk_0001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spk_0001" height="30" width="40" /></a> &nbps;&nbps;
+<a href="https://www.leetcode.com/spk_0001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spk_0001" height="30" width="40" /></a> &nbps;&nbps;&nbps;&nbps;
 <a href="https://www.codechef.com/users/cse_581" target="blank"><img align="left" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suryapro1805/profile" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryapro1805/profile" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/suryaprakashk181?hr_r=1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
