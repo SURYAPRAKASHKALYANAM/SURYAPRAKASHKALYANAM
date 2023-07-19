@@ -37,7 +37,7 @@
 <div align="center">  
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />  
-<img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="flask" height="50" /> 
+<img style="margin: 15px" src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" alt="flask" title="flask" height="50" /> 
 <img style="margin: 15px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" />
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" /> 
  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
