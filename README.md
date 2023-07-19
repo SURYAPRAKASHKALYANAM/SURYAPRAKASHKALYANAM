@@ -62,7 +62,7 @@
 <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50" /> 
 <img style="margin: 15px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="seaborn" height="50" />
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="50" />
-<img style="margin: 15px" src="https://fontawesomeicons.com/lib/svg/keras.svg" alt="keras" title="keras" height="50" />    
+<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" title="keras" height="50" />    
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" /> 
 <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" alt="Bash" height="50" />  
    
