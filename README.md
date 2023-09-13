@@ -6,7 +6,7 @@
 
 - 🔭 I'm Interested in **Deep Learning,Computer Vision,Machine Learning.**
 
-- 🌱 I'm currently learning DataBase
+- 🌱 I'm currently learning JavaScript
 
 - 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
 
