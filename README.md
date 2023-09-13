@@ -40,7 +40,7 @@
 <img style="margin: 15px" src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" alt="flask" title="flask" height="50" /> 
 <img style="margin: 15px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" />
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" /> 
- <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+<!--  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> -->
  <img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
 <img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /> 
  
