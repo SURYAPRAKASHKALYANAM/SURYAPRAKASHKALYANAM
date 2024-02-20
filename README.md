@@ -9,6 +9,8 @@
 - 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
 
 - ❤️</> 🧑‍💻 **Problem Solving** 🧠 🎶
+  
+- 📌📖 certified in <a href="https://drive.google.com/drive/folders/1E856h06BzikAkYJzrTqROvLzRvkHmr1-?usp=sharing"> Skills </a>  
 
 - 📫 How to reach me **suryaprakashk1805@gmail.com**
 
