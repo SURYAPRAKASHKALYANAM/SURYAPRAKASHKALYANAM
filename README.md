@@ -6,7 +6,7 @@
 
 - 🔭 I'm Interested in **Deep Learning,Computer Vision,Machine Learning.**
 
-- 😶‍🌫️ I’m Currently Working As a System Engineer at **TATA CONSULTANCY SERVICES**.
+- 😶‍🌫️ I’m Currently Working As a **System Engineer** at **TCS**.
 
 - ❤️</> 🧑‍💻 **Problem Solving** 🧠 🎶
   
