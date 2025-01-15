@@ -85,7 +85,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=suryaprakashkalyanam&show_icons=true&locale=en" alt="suryaprakashkalyanam" />
 </div><br>
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=SURYAPRAKASHKALYANAM&show_icons=true&theme=radical)
+  ![Surya's Git stats](https://github-readme-stats.vercel.app/api?username=SURYAPRAKASHKALYANAM&show_icons=true&theme=radical)
 </div>
 <div align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakashkalyanam&" alt="suryaprakashkalyanam" />
