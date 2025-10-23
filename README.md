@@ -20,12 +20,12 @@
 ## 🚀 Coding Profiles </>   
 <div align="center">
  <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
-<a href="https://www.leetcode.com/spk_0001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spk_0001" height="30" width="40" /></a> 
-<a href="https://www.codechef.com/users/cse_581" target="blank"><img align="left" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/suryapro1805/profile" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryapro1805/profile" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suryaprakashk181?hr_r=1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
- <a href="https://www.codingninjas.com/studio/profile/surya_01" target="blank"><img align="left" src="https://coursereport-production.imgix.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg?w=72&h=72" alt="surya prakash kalyanam" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/suryaprakashkalyanam" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/spk_0001" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spk_0001" height="30" width="40" /></a> 
+<a href="https://www.codechef.com/users/cse_581" target="_blank"><img align="left" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/suryapro1805/profile" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryapro1805/profile" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suryaprakashk181?hr_r=1" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
+ <a href="https://www.codingninjas.com/studio/profile/surya_01" target="_blank"><img align="left" src="https://coursereport-production.imgix.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg?w=72&h=72" alt="surya prakash kalyanam" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/suryaprakashkalyanam" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
 </div>
 
 
